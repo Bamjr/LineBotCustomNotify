@@ -2,7 +2,7 @@
 
 This project is a simple LINE Messaging API bot using Google Apps Script (GAS) to send a **monthly group reminder** with a QR payment image and a mention to all group members.
 
-> 📅 Sends a message on the **31st of every month**, or **30th if 31st doesn't exist (like in February or April)**.
+> 📅 Sends a message on the **1st of every month****.
 
 ## 💡 Features
 
